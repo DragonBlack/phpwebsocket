@@ -6,7 +6,7 @@
  * Time: 12:48
  */
 
-namespace DragonBlack\websocket;
+namespace DragonBlack\phpwebsocket;
 
 
 class WebsocketException extends \Exception {

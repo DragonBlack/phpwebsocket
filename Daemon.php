@@ -1,6 +1,6 @@
 <?php
 
-namespace DragonBlack\websocket;
+namespace DragonBlack\phpwebsocket;
 
 abstract class Daemon {
 

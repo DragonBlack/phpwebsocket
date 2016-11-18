@@ -6,7 +6,7 @@
  * Time: 15:56
  */
 
-namespace DragonBlack\websocket;
+namespace DragonBlack\phpwebsocket;
 
 
 class Server {
