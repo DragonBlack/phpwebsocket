@@ -1,5 +1,5 @@
 {
-    "name": "DragonBlack/phpwebsocket",
+    "name": "dragonblack/phpwebsocket",
     "description": "WebSocket server on PHP with support ws: and wss:",
     "require": {
         "php": ">=5.3.0",

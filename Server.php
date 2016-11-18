@@ -1,12 +1,5 @@
 <?php
-/**
- * Created by PhpStorm.
- * User: serg
- * Date: 15.11.16
- * Time: 15:56
- */
-
-namespace DragonBlack\phpwebsocket;
+namespace dragonblack\phpwebsocket;
 
 
 class Server {
