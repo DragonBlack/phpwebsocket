@@ -1,0 +1,20 @@
+{
+    "name": "dragonblack/phpwebsocket",
+    "description": "WebSocket server on PHP with support ws: and wss:",
+    "require": {
+        "php": ">=5.3.0",
+        "ext-mbstring": "*"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergey Cheryachukin",
+            "email": "dev.cheryachukin@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "dragonblack\\phpwebsocket": ""
+        }
+    }
+}
